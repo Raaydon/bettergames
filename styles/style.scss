@@ -18,6 +18,8 @@ body {
   font-weight: 700;
   color: $textColourMain;
   text-align: center;
+  padding: 5%;
+  padding-bottom: 1%;
 }
 
 p {
@@ -33,6 +35,8 @@ h1+p, p+p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin: 10%;
+  margin-top: 2%;
 }
 
 .card-wrap {

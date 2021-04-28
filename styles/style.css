@@ -13,6 +13,8 @@ body {
   font-weight: 700;
   color: #5D4037;
   text-align: center;
+  padding: 5%;
+  padding-bottom: 1%;
 }
 
 p {
@@ -33,6 +35,8 @@ h1 + p, p + p {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  margin: 10%;
+  margin-top: 2%;
 }
 
 .card-wrap {
